@@ -54,7 +54,6 @@ body {
   cursor: pointer;
   padding: 20px;
   margin: 10px 5px;
-  transition: .3s;
   position: relative;
   z-index: 10;
 }
