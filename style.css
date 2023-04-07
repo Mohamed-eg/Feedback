@@ -11,8 +11,8 @@ body {
   top: 0;
   left: 0;
     background: #190020; 
-    background: -webkit-radial-gradient(#00056b, #00011a);  
-    background: radial-gradient(#00056b, #00011a);     
+    background: -webkit-radial-gradient(#00a2ff, #000dff);  
+    background: radial-gradient(#00a2ff, #000dff);     
   font-family: 'Montserrat', sans-serif;
   overflow: hidden;
   height:100vh;
@@ -25,7 +25,7 @@ body {
 }
 
 .panel-container {
-  background-color: #12192c;
+  background-color: #13163d;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   border-radius: 15px;
   font-size: 90%;
@@ -35,7 +35,7 @@ body {
   align-items: center;
   text-align: center;
   padding: 30px;
-  max-width: 400px;
+  max-width: 300px;
   color:#4e54c8;
   margin: 10px auto;
 }
@@ -156,7 +156,7 @@ button:focus {
     flex-direction: column;
     text-align: center;
     color: #00ff00;
-    max-width:350px ;
+    max-width:300px ;
     z-index: -2;
     position: absolute;
   }
